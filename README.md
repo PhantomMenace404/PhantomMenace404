@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hypeerrr-19
-- 👀 I’m interested in cyber security,java.
-- 🌱 I’m currently learning JAVA,C++,etc..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at instagram : https://instagram.com/nikkhilvibes?igshid=YmMyMTA2M2Y=
+- 👋 Hi, I’m Nikhil Salunkhe
+- 👀 I’m interested in cyber Security(wapt, vapt, malware analysis)
+- 🌱 I’m currently learning Python,Malware analysis,etc..
+- 📫 How to reach me at linked In : www.linkedin.com/in/nikhilsalunkhe-ln 
 - 
 
 <!---
