@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nikhil Salunkhe
 - 👀 I’m interested in cyber Security(wapt, vapt, malware analysis)
-- 🌱 I’m currently learning Python,Malware analysis,etc..
+- 🌱 I’m currently learning Python,Malware analysis.
 - 📫 reach me at linked In : www.linkedin.com/in/nikhilsalunkhe-ln
 - 📧 Email : niksalunkhe20@gmail.com
 
